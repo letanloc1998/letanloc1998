@@ -2,7 +2,7 @@
 
 |a|b|
 |---|---|
-|<details><br><summary>Hello</summary><br>```abc```<br></details>|<details><br><summary>Hello</summary><br>```abc```<br></details>|
+|<details><br><summary>Hello</summary>```abc```</details>|<details><br><summary>Hello</summary>```abc```</details>|
 
 <!--
 **letanloc1998/letanloc1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
