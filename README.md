@@ -1,7 +1,7 @@
 # Tan Loc LE
 
 |a|b|
-|---|---|
+|----------------------------------------------|----------------------------------------------|
 |<details><br><summary>Hello</summary>```abc```</details>|<details><br><summary>Hello</summary>```abc```</details>|
 
 <!--
