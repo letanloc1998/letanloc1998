@@ -53,4 +53,4 @@
 | [Hackerrank](https://www.hackerrank.com/letanloc1998) | <details><summary>[Rest API (Intermediate) Certificate](https://www.hackerrank.com/certificates/505d58cfc430)</summary><br />![](RestAPI-Intermediate-Certificate.jpg)</details> |
 | <br> | <br> |
 | **...** | |
-| [Can Tho University](https://www.ctu.edu.vn/) | <details><summary>Degree (will update higher resolution later)</summary>![Diploma Information](CTU-Degree.jpg)</details><details><summary>[Check Diploma Status](https://qlvb.ctu.edu.vn/)</summary>![Diploma Information](qlvb_ctu_edu_vn.png)</details> |
+| [Can Tho University](https://www.ctu.edu.vn/) | <details><summary>Degree</summary>![Diploma Information](CTU-Degree.jpeg)</details><details><summary>[Check Diploma Status](https://qlvb.ctu.edu.vn/)</summary>![Diploma Information](qlvb_ctu_edu_vn.png)</details> |
