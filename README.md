@@ -21,7 +21,7 @@
 | <br> | <br> |
 | **Honors & Awards** | |
 | Can Tho University | - `Scholarship` every semester from Aug 2016 to May 2020<br />- `Certificate of merit first in class` in year 2016-2016, 2018-2019<br />- `Valedictorian of major` all course |
-| Other | - Provincial excellent student of calculator, chemistry at secondary school<br />- Excellent level of school primary school, secondary school<br />... |
+| Other | - Provincial excellent student of calculator (6th), chemistry (3th) at secondary school<br />- Excellent level of school primary school, secondary school<br />... |
 | <img width="500" height="0"> | <br> |
 | **Experience** | |
 | | |
