@@ -18,7 +18,7 @@
 | Gender | Male |
 | <br> | <br> |
 | **Education** | |
-| Aug 2016 - Sep 2020<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_<br />`GPA 3.71/4.00` |
+| Aug 2016 - Sep 2020<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_<br />GPA `3.71/4.00` |
 | Aug 2018 - Sep 2018 | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/)<br /> _Android application development (module 1)_ |
 | <br> | <br> |
 | **Honors & Awards** | |
