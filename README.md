@@ -59,6 +59,6 @@
 
 | Public repository status | |
 |:-:|:-:|
-| <img width="400" height="0"> | <img width="600" height="0"> |
 |[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=html&langs_count=5&layout=compact)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|
+| <img width="400" height="0"> | <img width="600" height="0"> |
 |[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr&hide=html&langs_count=5&layout=compact)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|
