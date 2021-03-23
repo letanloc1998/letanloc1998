@@ -1,28 +1,3 @@
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-          <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
-        </a>
-        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-          <img src="https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true" />
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=html&langs_count=5&layout=compact" />
-        </a>
-        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr&hide=javascript,html&langs_count=5&layout=compact" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 # **[Tan-Loc Le](https://github.com/letanloc1998/)**
 
 ## Java Developer at [UNIT Corp](https://unit.com.vn/)
@@ -81,3 +56,38 @@
 | <br> | <br> |
 | **...** | |
 | [Can Tho University](https://www.ctu.edu.vn/) | <details><summary>Degree</summary>![Diploma Information](CTU-Degree.jpg)</details><details><summary>[Check Diploma Status](https://qlvb.ctu.edu.vn/)</summary>![Diploma Information](qlvb_ctu_edu_vn.png)</details> |
+
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+          <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=html&langs_count=5&layout=compact" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+          <img src="https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr&hide=javascript,html&langs_count=5&layout=compact" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
