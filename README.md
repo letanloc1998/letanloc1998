@@ -4,6 +4,9 @@
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
       </a>
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladshop" />
+      </a>
     </td>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
