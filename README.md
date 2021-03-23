@@ -5,27 +5,15 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
       </a>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
-      </a>
-      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr-deploy" />
-      </a>
-      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladshop" />
+        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
-      </a>
-      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
         <img src="https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true" />
       </a>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api?username=sodepr-deploy&show_icons=true" />
-      </a>
-      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api?username=gladshop&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
       </a>
     </td>
   </tr>
