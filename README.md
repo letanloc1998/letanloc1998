@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img width="600" src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
       </a>
     </td>
   </tr>
