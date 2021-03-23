@@ -5,12 +5,12 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
       </a>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
       </a>
     </td>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
+        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
       </a>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
         <img src="https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true" />
