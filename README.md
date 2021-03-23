@@ -9,6 +9,9 @@
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
         <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
       </a>
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true" />
+      </a>
     </td>
   </tr>
 </table>
