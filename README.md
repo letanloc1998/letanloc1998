@@ -1,6 +1,8 @@
 # **[Tan-Loc Le](https://github.com/letanloc1998/)**
 
-[![Repository's Stats](https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)
+[![Tan-Loc Le](https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)
+
+[![Tan-Loc Le](https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)
 
 ## Java Developer at [UNIT Corp](https://unit.com.vn/)
 
