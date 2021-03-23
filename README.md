@@ -13,7 +13,7 @@
     <td>
       <p align="center">
         <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=javascript&langs_count=3" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=javascript&langs_count=4" />
         </a>
         <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
