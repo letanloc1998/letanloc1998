@@ -3,10 +3,14 @@
 <table>
   <tr>
     <td>
-      [<img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true" />
+      </a>
     </td>
     <td>
-      [![Tan-Loc Le](https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
+      </a>
     </td>
   </tr>
 </table>
