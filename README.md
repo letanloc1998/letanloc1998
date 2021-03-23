@@ -1,5 +1,3 @@
-# **[Tan-Loc Le](https://github.com/letanloc1998/)**
-
 <table>
   <tr>
     <td>
@@ -14,6 +12,8 @@
     </td>
   </tr>
 </table>
+
+# **[Tan-Loc Le](https://github.com/letanloc1998/)**
 
 ## Java Developer at [UNIT Corp](https://unit.com.vn/)
 
