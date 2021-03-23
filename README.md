@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998" />
       </a>
     </td>
     <td>
