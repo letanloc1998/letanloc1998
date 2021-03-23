@@ -57,7 +57,7 @@
 | **...** | |
 | [Can Tho University](https://www.ctu.edu.vn/) | <details><summary>Degree</summary>![Diploma Information](CTU-Degree.jpg)</details><details><summary>[Check Diploma Status](https://qlvb.ctu.edu.vn/)</summary>![Diploma Information](qlvb_ctu_edu_vn.png)</details> |
 
-|||
+| <img width="400" height="0"> | <img width="600" height="0"> |
 |:-:|:-:|
 |[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api?username=letanloc1998&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=letanloc1998&hide=html&langs_count=5&layout=compact)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|
 |[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodepr&show_icons=true)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|[![Loc's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr&hide=html&langs_count=5&layout=compact)](https://github.com/letanloc1998/letanloc1998/blob/main/README.md)|
