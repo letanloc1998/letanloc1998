@@ -7,6 +7,12 @@
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladshop" />
       </a>
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr" />
+      </a>
+      <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodepr-deploy" />
+      </a>
     </td>
     <td>
       <a href="https://github.com/letanloc1998/letanloc1998/blob/main/README.md">
