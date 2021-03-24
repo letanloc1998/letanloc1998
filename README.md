@@ -6,15 +6,15 @@
 | [Tan-Loc Le](https://github.com/letanloc1998/) | |
 | :- | :- |
 | <img width="400" height="0"> | <img width="600" height="0"> |
-| **Contact** | |
+| **Contact**/*Liên hệ* | |
 | ![](geo-alt.svg) | Ho Chi Minh, Viet Nam |
 | ![](telephone.svg) | +8432723332 |
 | ![](envelope.svg) | letanloc1998@gmail.com |
 | <br> | <br> |
-| **Personal Information** | |
-| Name | Le Tan Loc |
-| Nationality | Vietnamese |
-| Date of birth | Dec 8th, 1998 |
+| **Personal Information**/*Thông tin cá nhân* | |
+| Name/*Tên* | Le Tan Loc/*Lê Tấn Lộc* |
+| Nationality/*Quốc tịch* | Vietnamese/*Việt Nam* |
+| Date of birth/*Ngày sinh* | Dec 8th, 1998 / *8/12/1998* |
 | Gender | Male |
 | <br> | <br> |
 | **Education** | |
