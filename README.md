@@ -6,18 +6,18 @@
 | [Tan-Loc Le](https://github.com/letanloc1998/) | |
 | :- | :- |
 | <img width="400" height="0"> | <img width="600" height="0"> |
-| **Contact**/*Liên hệ* | |
+| **Contact** / *Liên hệ* | |
 | ![](geo-alt.svg) | Ho Chi Minh, Viet Nam |
 | ![](telephone.svg) | +8432723332 |
 | ![](envelope.svg) | letanloc1998@gmail.com |
 | <br> | <br> |
-| **Personal Information**/*Thông tin cá nhân* | |
-| Name/*Tên* | Le Tan Loc/*Lê Tấn Lộc* |
-| Nationality/*Quốc tịch* | Vietnamese/*Việt Nam* |
-| Date of birth/*Ngày sinh* | Dec 8th, 1998 / *8/12/1998* |
-| Gender | Male |
+| **Personal Information** / *Thông tin cá nhân* | |
+| Name / *Tên* | Le Tan Loc / *Lê Tấn Lộc* |
+| Nationality / *Quốc tịch* | Vietnamese / *Việt Nam* |
+| Date of birth / *Ngày sinh* | Dec 8th, 1998 / *8/12/1998* |
+| Gender / *Giới tính* | Male / *Nam* |
 | <br> | <br> |
-| **Education** | |
+| **Education** / *Giáo dục* | |
 | Aug 2016 - Sep 2020<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_<br />GPA `3.71/4.00` |
 | Aug 2018 - Sep 2018 | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/)<br /> _Android application development (module 1)_ |
 | <br> | <br> |
