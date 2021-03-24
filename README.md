@@ -14,7 +14,7 @@
 | **Personal Information** / *Thông tin cá nhân* | |
 | Name / *Tên* | Le Tan Loc / *Lê Tấn Lộc* |
 | Nationality / *Quốc tịch* | Vietnamese / *Việt Nam* |
-| Date of birth / *Ngày sinh* | Dec 8th, 1998 / *8/12/1998* |
+| Date of birth / *Ngày sinh* | Dec 8th, 1998 / *8-12-1998* |
 | Gender / *Giới tính* | Male / *Nam* |
 | <br> | <br> |
 | **Education** / *Giáo dục* | |
