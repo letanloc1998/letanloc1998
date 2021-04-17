@@ -6,20 +6,20 @@
 | [Tan-Loc Le](https://github.com/letanloc1998/) | |
 | :- | :- |
 | <img width="400" height="0"> | <img width="600" height="0"> |
-| **Contact** / *Liên hệ* | |
+| **Contact**<br />*Liên hệ* | |
 | ![](geo-alt.svg) | Ho Chi Minh, Viet Nam / *Hồ Chí Minh, Việt Nam* |
 | ![](telephone.svg) | +8432723332 |
 | ![](envelope.svg) | letanloc1998@gmail.com |
 | <br> | <br> |
-| **Personal Information** / *Thông tin cá nhân* | |
+| **Personal Information**<br />*Thông tin cá nhân* | |
 | Name / *Tên* | Le Tan Loc / *Lê Tấn Lộc* |
 | Nationality / *Quốc tịch* | Vietnamese / *Việt Nam* |
-| Date of birth / *Ngày sinh* | Dec 8th, 1998 / *8-12-1998* |
+| Date of birth / *Ngày sinh* | Dec 8th, 1998 / *8/12/1998* |
 | Gender / *Giới tính* | Male / *Nam* |
 | <br> | <br> |
 | **Education** / *Giáo dục* | |
-| Aug 2016 - Sep 2020 / *8-2016 - 9-2020*<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_ / [*Đại học Cần Thơ*](https://www.ctu.edu.vn/) - *Kỹ thuật phần mềm*<br />GPA / *Điểm trung bình tích lũy*: `3.71/4.00` |
-| Aug 2018 - Sep 2018 / *8-2018 - 9-2018* | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/)<br /> _Android application development (module 1)_ |
+| Aug 2016 - Sep 2020 / *8/2016 - 9/2020*<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_ / [*Đại học Cần Thơ*](https://www.ctu.edu.vn/) - *Kỹ thuật phần mềm*<br />GPA / *Điểm trung bình tích lũy*: `3.71/4.00` |
+| Aug 2018 - Sep 2018 / *8/2018 - 9/2018* | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/)<br /> _Android application development (module 1)_ |
 | <br> | <br> |
 | **Honors & Awards** | |
 | Can Tho University | - *Scholarship* - every semester from Aug 2016 to May 2020<br />- *`First in class`* - merit certificate (2016-2017, 2018-2019)<br />- *Valedictorian of major* - for course 2016-2020 |
