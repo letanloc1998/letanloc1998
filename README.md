@@ -49,7 +49,7 @@
 | ReactJS | - UNIT Corp - eRecruitment<br /> |
 | ... | Flask, FaskAPI, Java Swing, .NET (ADO.NET, ASP.NET), MySQL, PL/SQL Oracle |
 | <br> | <br> |
-| **Certificate** | |
+| **Certificate**<br />*Chứng chỉ* | |
 | [Freecodecamp](https://www.freecodecamp.org/) | <details><summary>[Responsive web design](https://www.freecodecamp.org/certification/letanloc1998/responsive-web-design)</summary><br />![](responsive-web-design.jpg)</details> |
 | [Hackerrank](https://www.hackerrank.com/letanloc1998) | <details><summary>[Python (Basic) Certificate](https://www.hackerrank.com/certificates/f9ead206007a)</summary><br />![](Python-Basic-Certificate.jpg)</details> |
 | [Hackerrank](https://www.hackerrank.com/letanloc1998) | <details><summary>[JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/07d6b2e3311e)</summary><br />![](JavaScript-Basic-Certificate.jpg)</details> |
