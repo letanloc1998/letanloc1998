@@ -23,7 +23,7 @@
 | <br> | <br> |
 | **Honors & Awards**<br />*Thành tích và giải thưởng* | |
 | Can Tho University | - *Scholarship* - every semester from Aug 2016 to May 2020<br />*Học bổng - mỗi học kì từ 8/2016 đến 5/2020*<br /><br />- *`First in class`* - merit certificate (2016-2017, 2018-2019)<br />*Khen thưởng nhất lớp năm học 2016-2017, 2018-2019*<br /><br />- *Valedictorian of major* - for course 2016-2020<br />*Thủ khoa ngành khóa 2016-2017* |
-| Other | - Provincial excellent student of calculator (6th), chemistry (3th) at secondary school<br />- Excellent level of school primary school, secondary school<br />... |
+| Other | - Provincial excellent student of calculator (6th), chemistry (3th) at secondary school<br />*Xếp hạng 6 học sinh giỏi cấp tỉnh máy tính cầm tay (19.75/20 điểm), xếp hạng 3 học sinh giỏi hóa cấp tỉnh (14.5/20 điểm) cấp trung học cơ sở*<br /><br />- Excellent level of school primary school, secondary school<br />*Học sinh xuất sắc toàn trường cấp tiểu học, trung học cơ sở*<br /><br />... |
 | <img width="500" height="0"> | <br> |
 | **Experience** | |
 | | |
