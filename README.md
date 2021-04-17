@@ -27,7 +27,7 @@
 | <img width="500" height="0"> | <br> |
 | **Experience**<br />*Kinh nghiệm* | |
 | | |
-| **`Overview`** | |
+| **`Overview`**<br />*Tổng quan* | |
 | May 2019 - Oct 2019<br />*5/2019 - 10/2019* | [AppCore](http://appcore.com.vn/) - Python (Django, Django REST framework) |
 | Mar 2020 - Apr 2020<br />*3/2020 - 4/2020* | [VNPT IT](https://vnptit.vn/) - Spring Boot (JHipster) |
 | Jul 2020 - now<br />*7/2020 - hiện tại* | [UNIT Corp](https://unit.com.vn/) - Spring MVC, Spring Boot |
