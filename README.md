@@ -28,9 +28,9 @@
 | **Experience**<br />*Kinh nghiệm* | |
 | | |
 | **`Overview`** | |
-| May 2019 - Oct 2019 | [AppCore](http://appcore.com.vn/) - Python (Django) |
-| Mar 2020 - Apr 2020 | [VNPT IT](https://vnptit.vn/) - Spring Boot (JHipster) |
-| Jul 2020 - now | [UNIT Corp](https://unit.com.vn/) - Spring MVC, Spring Boot |
+| May 2019 - Oct 2019<br />*5/2019 - 10/2019* | [AppCore](http://appcore.com.vn/) - Python (Django) |
+| Mar 2020 - Apr 2020<br />*3/2020 - 4/2020* | [VNPT IT](https://vnptit.vn/) - Spring Boot (JHipster) |
+| Jul 2020 - now<br />*7/2020 - hiện tại* | [UNIT Corp](https://unit.com.vn/) - Spring MVC, Spring Boot |
 | | |
 | **`Projects`** | *Click for more information* |
 | [AppCore](http://appcore.com.vn/) - Chatbot | <details><br><summary>Chatbot, data analytic & suggestion</summary><table><thead><th>#</th><th><img width="500" height="0"></th></tr></thead><tbody><tr><td><strong>Duration</strong></td><td>1 month</td></tr><tr><td><strong>Team size</strong></td><td>3</td></tr><tr><td><strong>Position(s)</strong></td><td>Research & Development</td></tr><tr><td><strong>Description</strong></td><td>Chat bot with suggestion feature use data and machine learning</td></tr><tr><td><strong>Reponsibilities</strong></td><td>- Research:<br /> + Rasa framework,<br /> + library(sklearn, Sutime, Ducking, pandas,...),<br /> + Redis database<br />- Develop:<br /> + chatbot,<br /> + data processing,<br /> + suggestion use machine learning</td></tr><tr><td><strong>Tech</strong></td><td>- Python, Rasa framwork, sklearn, Sutime, Ducking, pandas, Redis...<br />- Machine learning (sklearn - cluster,...)<br />- Data processing (pandas,...)</td></tr><tr><td><strong>Tools</strong></td><td>Pycharm, VSCode,...</td></tr></tbody></table></details> |
