@@ -18,8 +18,8 @@
 | Gender<br />*Giới tính* | Male<br />*Nam* |
 | <br> | <br> |
 | **Education**<br />*Giáo dục* | |
-| Aug 2016 - Sep 2020<br />*8/2016 - 9/2020*<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_<br />[*Đại học Cần Thơ*](https://www.ctu.edu.vn/) - *Kỹ thuật phần mềm*<br />GPA: `3.71/4.00`<br />*Điểm trung bình tích lũy*: `3.71/4.00` |
-| Aug 2018 - Sep 2018<br />*8/2018 - 9/2018* | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/)<br />*Trung tâm công nghệ phần mềm đại học Cần Thơ*<br />_Android application development (module 1)_<br />*Phát triển ứng dụng di động trên nền Android (module 1 - Lập trình ứng dụng cho Android)* |
+| Aug 2016 - Sep 2020<br />*8/2016 - 9/2020*<br /> | [Can Tho University](https://www.ctu.edu.vn/) - _Software Engineering_<br />[*Đại học Cần Thơ*](https://www.ctu.edu.vn/) - *Kỹ thuật phần mềm*<br /><br />GPA: `3.71/4.00`<br />*Điểm trung bình tích lũy*: `3.71/4.00` |
+| Aug 2018 - Sep 2018<br /><br /><br />*8/2018 - 9/2018* | [Can Tho University Software Center (CUSC)](https://www.cusc.ctu.edu.vn/) <br /> _Android application development (module 1)_<br /><br />*[Trung tâm công nghệ phần mềm đại học Cần Thơ](https://www.cusc.ctu.edu.vn/)* <br /> *Phát triển ứng dụng di động trên nền Android (module 1 - Lập trình ứng dụng cho Android)* |
 | <br> | <br> |
 | **Honors & Awards** | |
 | Can Tho University | - *Scholarship* - every semester from Aug 2016 to May 2020<br />- *`First in class`* - merit certificate (2016-2017, 2018-2019)<br />- *Valedictorian of major* - for course 2016-2020 |
