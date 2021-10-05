@@ -141,7 +141,7 @@ May 16th, 2021
 </div>
 
 ---
-
+<!--
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dproblem-solving%26hr_r%3D1&response_type=image&width=125)
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dcpp%26hr_r%3D1&response_type=image&width=125)
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Djava%26hr_r%3D1&response_type=image&width=125)
@@ -150,6 +150,19 @@ May 16th, 2021
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dsql%26hr_r%3D1&response_type=image&width=125)
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dc%26hr_r%3D1&response_type=image&width=125)
 
+![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com)
+-->
+
+
+<p align="center">
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dproblem-solving%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dcpp%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Djava%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dpython%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3D10-days-of-javascript%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dsql%26hr_r%3D1&response_type=image&width=125" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dc%26hr_r%3D1&response_type=image&width=125" />
+</p>
 
 ![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2Ff9ead206007a&response_type=image&width=300)
 
