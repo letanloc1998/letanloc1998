@@ -164,6 +164,13 @@ May 16th, 2021
   <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fhackerrank.com%2Fletanloc1998%3Fbadge%3Dc%26hr_r%3D1&response_type=image&width=125" />
 </p>
 
-![](https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2Ff9ead206007a&response_type=image&width=300)
+<p align="center">
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2Ff9ead206007a&response_type=image&width=480" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F07d6b2e3311e&response_type=image&width=480" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F505d58cfc430&response_type=image&width=480" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2Fe51d7958be41&response_type=image&width=480" />
+  <img src="https://sodepr.herokuapp.com/api/img-preview-from-url?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2Faa7e495b4a05&response_type=image&width=480" />
+  <img style="width: 480px" />
+</p>
 
 
