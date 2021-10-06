@@ -6,9 +6,7 @@
 
 ## **Summary**
 
-```
-1+ years of experience as a Java backend developer
-```
+~2 years of experience
 
 ## **Contacts**
 
