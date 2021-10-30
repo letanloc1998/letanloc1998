@@ -10,17 +10,23 @@
 
 ## **Contacts**
 
-![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/geo-alt.svg](geo-alt.svg)
+<!-- ![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/geo-alt.svg](geo-alt.svg) -->
 
-  - `Ho Chi Minh, Viet Nam`
+  - Address
 
-![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/telephone.svg](telephone.svg)
+    - `Ho Chi Minh, Viet Nam`
 
-  - `+84 327 233 332`
+<!-- ![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/telephone.svg](telephone.svg) -->
 
-![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/envelope.svg](envelope.svg)
+  - Phone
 
-  - `letanloc1998@gmail.com`
+    - `+84 327 233 332`
+
+<!-- ![https://letanloc1998.github.io/static/bootstrap/icon/1.5.0/envelope.svg](envelope.svg) -->
+
+  - Email
+
+    - `letanloc1998@gmail.com`
 
 ## **Information**
 
