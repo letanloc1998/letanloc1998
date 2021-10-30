@@ -1,12 +1,23 @@
-# [**Le Tan Loc**](https://letanloc1998.github.io/)
+<!-- # [**Le Tan Loc**](https://letanloc1998.github.io/) -->
+<div align="center">
+  <h1>
+    <a href="https://letanloc1998.github.io/"><strong>Le Tan Loc</strong></a>
+  </h1>
+</div>
 
-**Java Backend Developer**
+<!-- **Java Backend Developer** -->
 
-  `Java`, `Spring MVC`, `Spring Boot`
+<p align="center"><strong>Java Backend Developer</strong></p>
+
+  <!-- `Java`, `Spring MVC`, `Spring Boot` -->
+
+<p align="center"><code>Java</code>, <code>Spring MVC</code>, <code>Spring Boot</code></p>
 
 ## **Summary**
 
-  - ~2 years of experience
+```
+~2 years of experience
+```
 
 ## **Contacts**
 
