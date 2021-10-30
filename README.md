@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-~2 years of experience
+  - ~2 years of experience
 
 ## **Contacts**
 
