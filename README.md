@@ -15,9 +15,7 @@
 
 ## **Summary**
 
-```
-~2 years of experience
-```
+<p align="center">~2 years of experience</p>
 
 ## **Contacts**
 
