@@ -15,10 +15,10 @@
 
 ## **Summary**
 
-<!-- <p align="center">~2 years of experience</p> -->
+<!-- <p align="center">~2.5 years of experience</p> -->
 
 ```
-~2 years of experience
+~2.5 years of experience
 ```
 
 ## **Contacts**
